@@ -2,10 +2,7 @@
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=IlkinSamadbayli&show_icons=true&theme=radical" />
 
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlkinSamadbayli&layout=compact" />
-
-
-***
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlkinSamadbayli&layout=compact" />
 
 ## <b> Languages and Tools: </b>
 <img align="left" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
